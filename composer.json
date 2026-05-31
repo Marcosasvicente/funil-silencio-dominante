@@ -1,1 +1,15 @@
+{
+    "name": "projeto/funil-silencio-dominante",
+    "description": "Sistema de automação de e-mail marketing PHP",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "authors": [
+        {
+            "name": "Seu Nome"
+        }
+    ]
+}
 
